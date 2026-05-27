@@ -47,7 +47,6 @@ API для платформы онлайн-обучения. Позволяет 
 ## Запуск
 
 ```bash
-venv\Scripts\activate
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver 15000
